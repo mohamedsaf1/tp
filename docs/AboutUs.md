@@ -33,7 +33,8 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/connlim.png" width="200px">
 
-[[github](https://github.com/connlim)] [[portfolio](team/connlim.md)]
+[[github](https://github.com/connlim)]
+[[portfolio](team/connlim.md)]
 
 * Role: Developer
 * Responsibilities: In charge of Tasks, Quality Assurance
